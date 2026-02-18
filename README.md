@@ -1,16 +1,7 @@
-# myapp
+# Actividad 10
 
-A new Flutter project.
+# Web
+<img width="419" height="665" alt="image" src="https://github.com/user-attachments/assets/c646f1cc-a816-47df-bbc0-535441313c1d" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Android
+<img width="385" height="650" alt="image" src="https://github.com/user-attachments/assets/80b26dc2-253e-4bda-b92d-f079807b4acb" />
